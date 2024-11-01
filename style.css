@@ -1,0 +1,40 @@
+header img {
+    width: 80px;
+}
+main img {
+     width: 60px;
+}
+main{
+    background-color: #EF930A;
+    font-family:Cursive;
+    text-align: center;
+}
+main td,h1{
+    background-color: red;
+    color: white;
+}
+header a{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    border-radius: 30px;
+    margin: 120px;
+}
+header{
+    background-color: #EF930A; 
+    font-family:Cursive;
+}
+footer {
+    background-color: #EF930A; 
+}
+footer p {
+    color: white; 
+    font-family:Cursive;
+    font-size: 20px;
+    background-color: red;
+}
+
+nav{
+    text-align: center;
+}
